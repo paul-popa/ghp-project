@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/paul-popa/ghp-project/static/css/main.073c9b0a.css",
+    "main.js": "/paul-popa/ghp-project/static/js/main.384c230a.js",
+    "static/js/787.d6ac1a48.chunk.js": "/paul-popa/ghp-project/static/js/787.d6ac1a48.chunk.js",
+    "index.html": "/paul-popa/ghp-project/index.html",
+    "main.073c9b0a.css.map": "/paul-popa/ghp-project/static/css/main.073c9b0a.css.map",
+    "main.384c230a.js.map": "/paul-popa/ghp-project/static/js/main.384c230a.js.map",
+    "787.d6ac1a48.chunk.js.map": "/paul-popa/ghp-project/static/js/787.d6ac1a48.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.384c230a.js"
+  ]
+}
