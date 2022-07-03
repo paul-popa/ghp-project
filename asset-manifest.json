@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/paul-popa/ghp-project/static/css/main.073c9b0a.css",
-    "main.js": "/paul-popa/ghp-project/static/js/main.384c230a.js",
-    "static/js/787.d6ac1a48.chunk.js": "/paul-popa/ghp-project/static/js/787.d6ac1a48.chunk.js",
-    "index.html": "/paul-popa/ghp-project/index.html",
-    "main.073c9b0a.css.map": "/paul-popa/ghp-project/static/css/main.073c9b0a.css.map",
-    "main.384c230a.js.map": "/paul-popa/ghp-project/static/js/main.384c230a.js.map",
-    "787.d6ac1a48.chunk.js.map": "/paul-popa/ghp-project/static/js/787.d6ac1a48.chunk.js.map"
+    "main.css": "/ghp-project/static/css/main.073c9b0a.css",
+    "main.js": "/ghp-project/static/js/main.5e615d6c.js",
+    "static/js/787.d6ac1a48.chunk.js": "/ghp-project/static/js/787.d6ac1a48.chunk.js",
+    "index.html": "/ghp-project/index.html",
+    "main.073c9b0a.css.map": "/ghp-project/static/css/main.073c9b0a.css.map",
+    "main.5e615d6c.js.map": "/ghp-project/static/js/main.5e615d6c.js.map",
+    "787.d6ac1a48.chunk.js.map": "/ghp-project/static/js/787.d6ac1a48.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.384c230a.js"
+    "static/js/main.5e615d6c.js"
   ]
 }
