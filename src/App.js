@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
         <Routes>
-        <Route path="/ghp-project" element={<Home />}></Route>
+        <Route path="/" element={<Home />}></Route>
         <Route path="/test" element={<Test />}></Route>
         <Route path="*" element={<Home />}></Route>
       </Routes> 
